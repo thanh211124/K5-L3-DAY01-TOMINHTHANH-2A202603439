@@ -14,7 +14,7 @@
 | [`lab1_report.json`](lab1_report.json) — do ô "Báo cáo cuối" sinh ra | ☑ |
 | [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | ☑ |
 
-## 2. Kết quả chính
+
 
 ## 2. Kết quả chính
 
