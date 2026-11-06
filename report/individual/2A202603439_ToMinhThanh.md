@@ -56,7 +56,6 @@
 - Dẫn chứng số liệu: Mô hình 3b có độ trễ p95 siêu thấp, chỉ ở mức 10.088 ms/tin, an toàn vượt qua SLA 50ms. Đồng thời, chất lượng hoàn toàn không bị đánh đổi khi F1 đạt đỉnh 0.970 trên toàn tập test.
 - Chấp nhận đánh đổi: Khi chọn 3b, chúng ta đánh đổi việc không sử dụng bộ não đọc hiểu quá tinh vi của LLM, đồng nghĩa với việc có thể lọt một tỷ lệ nhỏ các tin nhắn lừa đảo mạo danh (nhóm "Spam giọng tự nhiên" hoặc "Thao túng").
 
-## 7. AI log và điều đã học
 
 ## 7. AI log và điều đã học
 
